@@ -174,16 +174,12 @@ La pagina lista "Servizi" è composta da:
 
 In caso di uso del motore di ricerca, i primi 5 servizi verranno sostituiti con i primi risultati del motore di ricerca, filtrati con un meccanismo di live search.
 
-`Vai ai layout hi-fi <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_
-
 **Amministrazione**
 
 La pagina Amministrazione presenta:
 
 - una sezione in evidenza, dove possono essere mostrati fino a 3 contenuti;
 - l'elenco dei sottolivelli della sezione, che ne permette la navigazione (Aree amministrative, Documenti e dati, Enti e fondazioni, Organi di governo, Personale amministrativo, Politici, Uffici).
-
-`Vai ai layout hi-fi <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_
 
 **Vivere il comune**
 
@@ -194,11 +190,9 @@ La pagina Amministrazione presenta:
 
 Ogni tipologia deve avere una propria sezione nella pagina. Poiché questa pagina ha, principalmente, una funzione "vetrina". Ogni sezione (Eventi, Luoghi) deve avere 6 elementi in evidenza e un link che porta alle corrispondenti pagine di secondo livello (lista Eventi e lista Luoghi).
 
-`Vai ai layout hi-fi <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_
-
 **Novità**
 
-"Novità" è una sezione che contiene la tipologia di contenuto "Notizia". Queste possono essere notizie, avvisi e comunicati.
+"Novità" è una sezione che contiene la tipologia\ di contenuto "Notizia". Queste possono essere notizie, avvisi e comunicati.
 
 La pagina deve contenere:
 
