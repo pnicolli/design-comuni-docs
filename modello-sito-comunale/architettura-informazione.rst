@@ -163,7 +163,7 @@ Pagine lista di primo livello
 
 Le pagine relative alle sezioni di primo livello (Amministrazione, Novità, Servizi, Vivere il comune).
 
-### **Servizi**
+**Servizi**
 
 La pagina lista "Servizi" è composta da:
 
