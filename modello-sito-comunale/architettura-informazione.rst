@@ -121,7 +121,7 @@ L'etichetta di navigazione può essere, a scelta dei Comuni, o "Vivere il comune
 
 La navigazione di secondo livello dell'**Area personale** è suddivisa in: "Messaggi", "Attività", "I miei servizi", "Pratiche", "Notifiche" e "Impostazioni".
 
-.. attenzione::
+.. attention::
   Le tassonomie presenti nel documento di architettura hanno vari livelli, utili alla classificazione più o meno granulare dei contenuti e pensate per dare un ampio ventaglio di scelta. È possibile che un Comune non abbia contenuti che ricadano in tutte le voci delle tassonomie. In questi casi, soprattutto quando le tassonomie vengono usate per strutturare l'alberatura e la navigazione, bisogna eliminare le voci delle categorie che non presentano contenuti, in modo da non creare voci di navigazione e pagine vuote. 
 
 
