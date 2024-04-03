@@ -30,7 +30,7 @@ Se l'utente si è autenticato al portale, nominativo e contatti saranno quelli d
 
 `Naviga il prototipo mobile <https://www.figma.com/proto/Kfa8NiMX4BDgJmRZiXxjnY/Siti-Comuni---hi-fi?page-id=1257%3A208298&node-id=1291%3A223386&viewport=466%2C48%2C0.89&scaling=scale-down&starting-point-node-id=1291%3A223386>`_
 
-`Vai ai layout hi-fi <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_
+Sono disponibili i relativi layout hi-fi su Figma che presentano il flusso di interazione e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Prenotazione appuntamento».
 
 
 Richiesta di assistenza
