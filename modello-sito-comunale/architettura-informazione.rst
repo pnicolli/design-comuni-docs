@@ -192,7 +192,7 @@ Ogni tipologia deve avere una propria sezione nella pagina. Poiché questa pagin
 
 **Novità**
 
-"Novità" è una sezione che contiene la tipologia\ di contenuto "Notizia". Queste possono essere notizie, avvisi e comunicati.
+"Novità" è una sezione che contiene la tipologia di contenuto "Notizia". Queste possono essere notizie, avvisi e comunicati.
 
 La pagina deve contenere:
 
