@@ -123,7 +123,7 @@ L’utente accede all’interfaccia di ricerca globale nel sito attraverso l’i
 
 `Naviga il prototipo desktop <https://www.figma.com/proto/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?page-id=2216%3A296171&type=design&node-id=2278-304333&viewport=122%2C-7505%2C0.5&t=nlCqxmqTWq4rX5Gv-1&scaling=scale-down&starting-point-node-id=2278%3A304333&mode=design>`_
 
-`Vai ai layout hi-fi <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Ricerca».
 
 
 Ricerca contestuale
