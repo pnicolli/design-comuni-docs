@@ -75,7 +75,7 @@ Se si sceglie di implementare una funzionalità dedicata, questa deve offire la 
 
 `Naviga il prototipo mobile <https://www.figma.com/proto/Kfa8NiMX4BDgJmRZiXxjnY/Siti-Comuni---hi-fi?page-id=745%3A108216&node-id=982%3A278237&viewport=466%2C48%2C0.44&scaling=scale-down&starting-point-node-id=982%3A278237>`_
 
-`Vai ai layout hi-fi <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_
+Sono disponibili i relativi layout hi-fi su Figma che presentano il flusso di interazione e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Segnalazione disservizio».
 
 
 Valutazione della chiarezza informativa delle pagine
