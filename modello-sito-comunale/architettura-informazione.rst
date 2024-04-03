@@ -242,7 +242,7 @@ uffici che compongono l’amministrazione. Gli argomenti offrono agli
 uffici la possibilità di gestire i propri contenuti e condividere le
 proprie iniziative.
 
-`Vai ai layout hi-fi <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Argomento».
 
 
 Struttura delle pagine
