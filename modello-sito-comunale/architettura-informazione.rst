@@ -174,12 +174,16 @@ La pagina lista "Servizi" è composta da:
 
 In caso di uso del motore di ricerca, i primi 5 servizi verranno sostituiti con i primi risultati del motore di ricerca, filtrati con un meccanismo di live search.
 
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Servizi».
+
 **Amministrazione**
 
 La pagina Amministrazione presenta:
 
 - una sezione in evidenza, dove possono essere mostrati fino a 3 contenuti;
 - l'elenco dei sottolivelli della sezione, che ne permette la navigazione (Aree amministrative, Documenti e dati, Enti e fondazioni, Organi di governo, Personale amministrativo, Politici, Uffici).
+
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Amministrazione».
 
 **Vivere il comune**
 
@@ -189,6 +193,8 @@ La pagina Amministrazione presenta:
 - luoghi.
 
 Ogni tipologia deve avere una propria sezione nella pagina. Poiché questa pagina ha, principalmente, una funzione "vetrina". Ogni sezione (Eventi, Luoghi) deve avere 6 elementi in evidenza e un link che porta alle corrispondenti pagine di secondo livello (lista Eventi e lista Luoghi).
+
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Vivere il comune».
 
 **Novità**
 
