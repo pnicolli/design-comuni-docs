@@ -30,7 +30,7 @@ Se l'utente si è autenticato al portale, nominativo e contatti saranno quelli d
 
 `Naviga il prototipo mobile <https://www.figma.com/proto/Kfa8NiMX4BDgJmRZiXxjnY/Siti-Comuni---hi-fi?page-id=1257%3A208298&node-id=1291%3A223386&viewport=466%2C48%2C0.89&scaling=scale-down&starting-point-node-id=1291%3A223386>`_
 
-`Vai ai layout hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?node-id=1257%3A208298&t=3v6HDPIEBkHrVFvA-1>`_
+Sono disponibili i relativi layout hi-fi su Figma che presentano il flusso di interazione e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Prenotazione appuntamento».
 
 
 Richiesta di assistenza
@@ -56,7 +56,7 @@ Il link alla funzionalità deve essere presente nel footer del sito.
 
 `Naviga il prototipo mobile <https://www.figma.com/proto/Kfa8NiMX4BDgJmRZiXxjnY/Siti-Comuni---hi-fi?page-id=5152%3A367364&node-id=5631%3A410664&viewport=3683%2C-19222%2C0.84&scaling=scale-down&starting-point-node-id=5631%3A411910>`_
 
-`Vai ai layout hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?node-id=5152%3A367364&t=3v6HDPIEBkHrVFvA-1>`_
+Sono disponibili i relativi layout hi-fi su Figma che presentano il flusso di interazione e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Richiesta assistenza».
 
 
 Segnalazione disservizio
@@ -75,7 +75,7 @@ Se si sceglie di implementare una funzionalità dedicata, questa deve offire la 
 
 `Naviga il prototipo mobile <https://www.figma.com/proto/Kfa8NiMX4BDgJmRZiXxjnY/Siti-Comuni---hi-fi?page-id=745%3A108216&node-id=982%3A278237&viewport=466%2C48%2C0.44&scaling=scale-down&starting-point-node-id=982%3A278237>`_
 
-`Vai ai layout hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?node-id=745%3A108216&t=3v6HDPIEBkHrVFvA-1>`_
+Sono disponibili i relativi layout hi-fi su Figma che presentano il flusso di interazione e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Segnalazione disservizio».
 
 
 Valutazione della chiarezza informativa delle pagine
@@ -123,7 +123,7 @@ L’utente accede all’interfaccia di ricerca globale nel sito attraverso l’i
 
 `Naviga il prototipo desktop <https://www.figma.com/proto/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?page-id=2216%3A296171&type=design&node-id=2278-304333&viewport=122%2C-7505%2C0.5&t=nlCqxmqTWq4rX5Gv-1&scaling=scale-down&starting-point-node-id=2278%3A304333&mode=design>`_
 
-`Vai ai layout hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?node-id=2216%3A296171&t=3v6HDPIEBkHrVFvA-1>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Ricerca».
 
 
 Ricerca contestuale
@@ -139,4 +139,4 @@ L’utente può accedere alla all’interfaccia di ricerca contestuale per i ser
 
 La ricerca contestuale è presente anche nelle pagine di Categorie di servizi. In questo caso la ricerca filtra i risultati per tipologia di contenuto (“Servizi”) e per categoria di servizio. Per esempio, nella categoria “Anagrafe e stato civile” la ricerca contestuale restituisce soltanto risultati di tipo “Servizio” che appartengono alla categoria “Anagrafe e stato civile”.
 
-`Vai ai layout hi-fi delle pagine Servizi e Categoria di servizio <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?node-id=2008%3A287250&t=3v6HDPIEBkHrVFvA-1>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Servizi».
