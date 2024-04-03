@@ -56,7 +56,7 @@ Il link alla funzionalità deve essere presente nel footer del sito.
 
 `Naviga il prototipo mobile <https://www.figma.com/proto/Kfa8NiMX4BDgJmRZiXxjnY/Siti-Comuni---hi-fi?page-id=5152%3A367364&node-id=5631%3A410664&viewport=3683%2C-19222%2C0.84&scaling=scale-down&starting-point-node-id=5631%3A411910>`_
 
-`Vai ai layout hi-fi <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_
+Sono disponibili i relativi layout hi-fi su Figma che presentano il flusso di interazione e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Richiesta assistenza».
 
 
 Segnalazione disservizio
