@@ -200,7 +200,7 @@ La pagina deve contenere:
 - una sezione di ricerca con l'elenco delle novità ordinate per data, con paginazione;
 - l'elenco delle categorie per poter navigare ai sottolivelli.
 
-`Vai ai layout hi-fi <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Novità».
 
 Pagine lista di secondo livello
 --------------------------------
