@@ -3,7 +3,7 @@ Come si costruisce un flusso di servizio
 
 Oltre ai 26 servizi mappati, la struttura modulare dei modelli di servizio si adatta facilmente anche a un numero più ampio di servizi digitali per il cittadino.
 
-I vari moduli e sezioni sono consultabili nell’apposita `libreria di componenti UI <https://www.figma.com/file/jj5iuCVAogSWCWsiSeXRoN/Comuni---Documentazione-moduli-e-sezioni?node-id=0%3A1&t=4h9t2M9t2AF2X8Wn-1>`_ e possono essere combinati per far fronte a diverse esigenze. Ulteriori componenti sono anche disponibili nel `Design System del Paese <https://italia.github.io/bootstrap-italia/>`_.
+I vari moduli e sezioni sono consultabili nell’apposita `libreria <https://github.com/italia/design-comuni-ui-kit/blob/main/comuni-documentazione-moduli-e-sezioni.fig>`_ e possono essere combinati per far fronte a diverse esigenze. Ulteriori componenti sono anche disponibili nel `Design System del Paese <https://italia.github.io/bootstrap-italia/>`_.
 
 L’uso di queste risorse permette di implementare efficacemente un servizio digitale che rispetti gli standard di accessibilità e usabilità.
  
